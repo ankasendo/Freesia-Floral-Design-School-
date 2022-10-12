@@ -6,8 +6,28 @@
     border: none;
 }
 
+/* font and color */
+
 body {
     font-family: Cormorant,sans-serif;
     font-weight: 300;
     color: #0F0F0FFF;
+}
+
+/* logo and nav bar */
+
+#logo {
+    float: left;
+    font-size: 260%;
+    margin-left: 20px;
+    line-height: 80px;
+    color: #0F0F0FFF;
+}
+#logo a {
+    color: #0F0F0FFF;
+}
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 2px;
 }
