@@ -9,7 +9,7 @@
 /* font and color */
 
 body {
-    font-family: Cormorant,sans-serif;
+    font-family: Cormorant, sans-serif;
     font-weight: 300;
     color: #0F0F0FFF;
 }
@@ -20,9 +20,10 @@ body {
     float: left;
     font-size: 260%;
     margin-left: 20px;
-    line-height: 80px;
+    line-height: 120px;
     color: #0F0F0FFF;
 }
+
 #logo a {
     color: #0F0F0FFF;
 }
@@ -43,10 +44,47 @@ body {
     text-decoration: none;
     color: #0F0F0FFF;
 }
+
 #menu a :hover {
     border-bottom: 1px solid;
 }
 
 .active {
     border-bottom: 1px solid #0F0F0FFF;
+}
+
+/*main image and cover text*/
+
+#main-image {
+
+    background: url(../images/pexels-adrienn-1458282.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    overflow: hidden;
+    line-height: 320px;
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: Cormorant, sans-serif;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 300px;
+
+    background-color: #fff;
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+}
+
+#image-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
 }
