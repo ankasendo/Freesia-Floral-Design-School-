@@ -149,4 +149,15 @@ body {
     border-radius: 30%;
     border-style: solid;
     border-color: rgba(241, 109, 107, .7);
+    margin-top: 40px;
+
+}
+
+#left-about {
+    text-align: left;
+    font-family: Cormorant, sans-serif;
+    font-size: 30px;
+    width: 30%;
+    margin-top: 10%;
+    text-align: justify;
 }
