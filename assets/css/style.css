@@ -114,10 +114,11 @@ body {
     font-size: 3rem;
 }
 
-   
+
 .ethos1 {
     width: 60%;
 }
+
 .ethos1 img {
     width: 80%;
     height: auto;
@@ -139,9 +140,11 @@ body {
     margin-top: 50px;
 
 }
+
 .ethos2 {
     width: 60%;
 }
+
 .ethos2 img {
     width: 80%;
     height: auto;
@@ -149,7 +152,7 @@ body {
     border-radius: 30%;
     border-style: solid;
     border-color: rgba(241, 109, 107, .7);
-    margin-top: 40px;
+    margin-top: 10%;
 
 }
 
@@ -161,16 +164,90 @@ body {
     margin-top: 10%;
     text-align: justify;
 }
-.ethos2 {
+
+.ethos3 {
     width: 60%;
 }
-.ethos2 img {
+
+.ethos3 img {
     width: 80%;
     height: auto;
     margin-left: 30px;
     border-radius: 30%;
     border-style: solid;
     border-color: rgba(241, 109, 107, .7);
-    margin-top: 10%;
+    margin-top: 5%;
+}
 
+/* services section starts here*/
+
+.services-container {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    border: 0;
+    background: rgba(241, 109, 107, .7);
+    background: linear-gradient(180deg, rgba(241, 109, 107, .7)) 0%, rgb(146, 140, 109) 65%, rgb(151, 64, 100) 100%;
+}
+
+#services-container-img {
+    margin: 0 0;
+    background: url('../images/pexels-photo-977913.jpeg');
+    background-size: cover;
+    min-height: 35em;
+    min-width: 35em;
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+}
+
+.container-box {
+    width: 100%;
+    margin-bottom: 1em;
+    box-shadow: 0 5px 8px 0 rgba(241, 109, 107, .7);
+}
+
+#services-container-text {
+    position: absolute;
+    top: 20%;
+    right: 1%;
+    max-width: 400px;
+    max-height: 300px;
+    margin: 20px 5% 5% 5%;
+    padding: 0 2% 0;
+    width: 85%;
+    height: 85%;
+}
+
+#services-container-text li {
+    list-style-type: none;
+}
+
+.box-shadow {
+    background-color: rgba(241, 109, 107, .7);
+    box-shadow: 0 5px 8px 0 #aB262580;
+    border-radius: 8px;
+}
+
+.text-box {
+    font-size: 120%;
+    font-weight: 400;
+    text-align: center;
+    box-sizing: border-box;
+    color: #FFFF;
+}
+
+.button {
+    display: inline-block;
+    border-radius: 8px;
+    margin-top: 7%;
+    box-shadow: 0 5px 8px 0 hsla(298, 69%, 19%, 0.502);
+    width: 200px;
+    height: 40px;
+    background: #9b5c80bb;
+    font-size: 25px;
+    font-weight: 600;
+    color: #FFFF;
+    text-align: center;
+    text-decoration: none;
 }
