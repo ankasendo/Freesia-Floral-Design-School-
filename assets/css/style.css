@@ -190,16 +190,15 @@ body {
 }
 
 #services-container-img {
+    width: 100%;
     margin: 0 0;
     background: url('../images/pexels-photo-977913.jpeg');
     background-size: cover;
     min-height: 35em;
-    min-width: 35em;
     background-position-x: center;
     background-position-y: center;
     background-repeat: no-repeat;
     overflow: hidden;
-    max-width: 100%;
 }
 
 .container-box {
@@ -255,12 +254,13 @@ body {
 
 /* cert section */
 .cert-container {
-display: inline-flex;
-flex-wrap: wrap;
-width: 100%;
-align-items: center;
-justify-content: center;
-background-color: #fff;
+    margin-top: 10%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
 }
 
 #stars {
@@ -304,3 +304,26 @@ footer {
     color: #3a3a3a;
 }
 
+.copyright {
+    text-align: center;
+    font-size: 20px;
+    color: inherit;
+}
+
+/* gallery styles */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-fill: auto;
+    column-width: 100%;
+    column-gap: 0px;
+}
+
+#photos >img {
+    width: 100%;
+    box-sizing: border-box;
+    align-items: center;
+    table-layout: auto;
+}
