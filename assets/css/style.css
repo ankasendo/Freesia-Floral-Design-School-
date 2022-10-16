@@ -209,10 +209,10 @@ body {
 
 #services-container-text {
     position: absolute;
+    right: 33%;
     top: 20%;
-    right: 1%;
-    max-width: 400px;
-    max-height: 300px;
+    max-width: 500px;
+    max-height: 400px;
     margin: 20px 5% 5% 5%;
     padding: 0 2% 0;
     width: 85%;
@@ -321,7 +321,7 @@ footer {
     column-gap: 0px;
 }
 
-#photos >img {
+#photos>img {
     width: 100%;
     box-sizing: border-box;
     align-items: center;
