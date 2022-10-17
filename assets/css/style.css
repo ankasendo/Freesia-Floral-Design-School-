@@ -539,6 +539,22 @@ footer {
         height: 60px;
     }
 
+    .contact-container {
+        width: 2px;
+    }
+
+    .contact-container img {
+        float: left;
+        min-width: 80px;
+        width: 40%;
+        margin: 8% 2% 8% 8%;
+        height: 200px;
+        max-width: 300px;
+    }
+    .contact-form {
+        width: 40%;
+    }
+
     #photos {
         column-count: 3;
     }
@@ -567,6 +583,7 @@ footer {
     height: 400px;
     max-width: 500px;
 }
+
 .contact-form {
     width: 40%;
     background-color: rgba(53, 56, 57, 0.8);
@@ -600,6 +617,7 @@ footer {
     color: #3a3a3a;
     background-color: rgba(241, 109, 107, .7);
 }
+
 .button-centered {
     align-items: center;
     display: inline-block;
@@ -611,10 +629,11 @@ footer {
     background: rgb(151, 64, 100);
     font-size: 25px;
     font-weight: 600;
-    color:rgb(146, 140, 109);
+    color: rgb(146, 140, 109);
     text-align: center;
     text-decoration: none;
 }
+
 .btn {
     margin-top: 20px;
     width: 15%;
@@ -624,6 +643,7 @@ footer {
     color: #353839;
     font-weight: bold;
 }
+
 .btn:hover {
     background-color: #353839;
     color: #fff;
@@ -636,11 +656,9 @@ footer {
     display: flex;
     flex-direction: column;
 }
+
 .formdestination-container img {
     margin-top: 15%;
     height: 60%;
     width: auto;
-    margin-left: 30px;
-    margin-right: 30px;
-    
 }
