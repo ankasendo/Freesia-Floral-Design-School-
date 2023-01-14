@@ -2,7 +2,7 @@
 
 The goal of this project is to design and build a website to promote florist courses and inspire people to become florists. It should provide information about what it offers and how to contact us.
 
-![sreenshoot](assets/images/Screenshot%202022-10-17%20092408.png)
+![sreenshoot](assets/Screenshot-092408.png)
 
 ## Features
 
