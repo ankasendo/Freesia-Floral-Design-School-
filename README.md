@@ -2,9 +2,7 @@
 
 The goal of this project is to design and build a website to promote florist courses and inspire people to become florists. It should provide information about what it offers and how to contact us.
 
-![sreenshoot][def]
-
-[def]: /assets/images/Screenshot%202022-10-17%20092408.png
+![sreenshoot](assets/images/Screenshot%202022-10-17%20092408.png)
 
 ## Features
 
@@ -16,53 +14,53 @@ _Navigation Bar_
 
 Featured at the top of the page, the fullly responsive navigation bar includes links to the top or home section, Gallery and Contact Us sections.
 
-![Nav Bar](https://github.com/ankasendo/Freesia-Floral-Design-/blob/main/assets/nav.bar.png)
+![Nav Bar](assets/nav.bar.png)
 
 _The landing page image_
 
 The landing includes a photograph with text overlay of some riders enjoying a ride-out. 
 This section introduces the user to the objective of the website. 
 
-![landing](https://github.com/ankasendo/Freesia-Floral-Design-/blob/main/assets/landingpage.png)
+![landing](assets/landingpage.png)
 
 _Welcome or About section_
 
 This section gives some information about the school and what it stands for.
 
-![firstsection](https://github.com/ankasendo/Freesia-Floral-Design-/blob/main/assets/firstsection.png)
+![firstsection](assets/firstsection.png)
 
 _Second section_
 
 This section focuses on our courses, highlighting the fact that the programme is suitable for begginers.
 It also includes an image showing flower preparation. 
 
-![secondsection](https://github.com/ankasendo/Freesia-Floral-Design-/blob/main/assets/secondsection.png)
+![secondsection](assets/secondsection.png)
 
 _Third section_
 
 This section outlines that the program is an approved pathway for the achievement of Certified Floral Designer status.
 
-![thirdsection](https://github.com/ankasendo/Freesia-Floral-Design-/blob/main/assets/thirdsection.png) 
+![thirdsection](assets/thirdsection.png) 
 
 _Bottom section_
 
 This section focuses on the programme service also provides a contact option. 
 
-![bottomsection](https://github.com/ankasendo/Freesia-Floral-Design-/blob/main/assets/bottomsection.png) 
+![bottomsection](assets/bottomsection.png) 
 
 ## The Footer
 
 The footer section includes links to social media sites. The links will open to a new tab to allow easy navigation for the user.
 The footer is very powerfull tool to the user as it encourages them to keep connected via social media.
 
-![footer](https://github.com/ankasendo/Freesia-Floral-Design-/blob/main/assets/footer.png)
+![footer](assets/footer.png)
 
 ## Gallery 
 
 The gallery will provide the user with supporting images to see what fun it is to ride at the centre.
 This section is valuable to the user as they will be able to easily identify the types of activities that take place at the centre.
 
-![gallery](https://github.com/ankasendo/Freesia-Floral-Design-/blob/main/assets/gallery.png)
+![gallery](assets/gallery.png)
 
 ## Testing 
 
@@ -78,17 +76,17 @@ This section is valuable to the user as they will be able to easily identify the
 - CSS
 No errors were found when passing through the official (Jigsaw) validator
 
-![cssvalidator](https://github.com/ankasendo/Freesia-Floral-Design-/blob/main/assets/cssvalidator.png)
+![cssvalidator](assets/cssvalidator.png)
 
 -HTML
 
 Few errors in HTML validator 
 
-![htmlvalidator](https://github.com/ankasendo/Freesia-Floral-Design-/blob/main/assets/htmlvalidator.png) 
+![htmlvalidator](assets/htmlvalidator.png) 
 
 -Lighthouse results 
 
-![lighthouse](https://github.com/ankasendo/Freesia-Floral-Design-/blob/main/assets/Screenshot%202022-10-17%20093017.png)
+![lighthouse](assets/Screenshot-093017.png)
 
 ## Deployment
 
@@ -115,5 +113,5 @@ For content and style inspiration,
 
 - The icons in the footer were taken from Font Awesome
 - The photos used on this site are all from the https://www.pexels.com/ 
--
+
 
